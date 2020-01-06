@@ -6,6 +6,27 @@ body
     color:gray;
     background-color: black;
 }
+
+#cabecera
+{
+background: blueviolet;
+box-shadow:0px, 2px, 8px, 0px crimson(0,0,0,0,5);
+color: cyan;
+font-weight: bold;
+margin: auto;
+padding: 0%;
+
+}
+
+
+#cabecera #tagline
+{
+    padding:0 0 0 1em;
+    font-weight: normal;
+    font-size:0.8em ;
+}
+
+
 #container 
 {
  width: 70%;
